@@ -1,0 +1,33 @@
+
+.height {
+ min-height: 100vh;
+}
+
+.text-underline{
+ width: 170px;
+ height: 7px;
+ margin: 0 auto;
+}
+
+.text-underlined{
+ width: 75px;
+ height: 7px;
+ margin: 0 auto;
+}
+
+.height-80 {
+ min-height: 80vh;
+}
+
+.about-img{
+ background: url(../img/about-img.jpg) center/cover no-repeat fixed; 
+ /* background: cover;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-attachment: fixed; */
+}
+
+#filler,#progress{
+ background:linear-gradient(rgba(0,0,0,.8), rgba(0,0,0,.8)) ,url(../img/team-1.jpg) center/cover no-repeat fixed; 
+
+}
